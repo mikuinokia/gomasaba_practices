@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ruleset name="Gomasaba Standard">
+    <rule ref="PSR12">
+        <exclude name="Generic.Files.LineLength.TooLong"/>
+    </rule>
+
+    <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
+
+<!--    <arg name="colors"/>-->
+<!--    <arg value="ps"/>-->
+</ruleset>
