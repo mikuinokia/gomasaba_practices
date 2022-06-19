@@ -1,3 +1,2 @@
 <?php
-
-echo "アアア";
+echo "aa";
