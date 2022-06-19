@@ -3,7 +3,7 @@ on: [pull_request]
 
 jobs:
   php-cs-fixer:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@master
       - name: Prepare
