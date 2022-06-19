@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5338a2a4-3c6b-4289-abe8-a6d90a3660f9" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/php-cs-fixer.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gomasaba_practices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/search_movie/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/search_movie/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
