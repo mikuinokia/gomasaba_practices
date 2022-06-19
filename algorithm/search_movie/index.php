@@ -1,2 +1,3 @@
 <?php
-$akino = array();
+
+$akino = [];
