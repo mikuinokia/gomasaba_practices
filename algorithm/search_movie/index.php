@@ -1,2 +1,2 @@
 <?php
-echo "aa";
+$akino = array();
