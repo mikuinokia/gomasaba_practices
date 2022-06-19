@@ -13,4 +13,4 @@ jobs:
       - name: Setup PHP 7.4
         run: sudo update-alternatives --set php /usr/bin/php7.4
       - name: php-cs-fixer
-        run: php php-cs-fixer fix ./src --dry-run
+        run: php php-cs-fixer fix ./algorithm --dry-run
