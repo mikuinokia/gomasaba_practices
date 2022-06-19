@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 
+date "+%Y/%m/%d %H:%M"
+
 # コーディングルールをチェック
 CS_CHECK=$(phpcs -q index.php --standard=../../phpcs.xml)
 if [ "$CS_CHECK" = "" ]; then
-  echo "コーディングルール: OK"
+  echo "コーディングルール: OK！"
 else
-  echo "コーディングルール: NO"
+  echo "コーディングルール: NO！"
 fi
 
 # テストパターン1から5の出力をチェック
