@@ -1,0 +1,14 @@
+name: 'test algorithm search movie'
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  build:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run sh
+        run: test.sh
