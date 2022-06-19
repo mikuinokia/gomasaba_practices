@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # コーディングルールをチェック
-CS_CHECK=$(phpcs -q index.php --standard=../phpcs.xml)
+CS_CHECK=$(phpcs -q index.php --standard=../../phpcs.xml)
 if [ "$CS_CHECK" = "" ]; then
   echo "コーディングルール: OK"
 else
