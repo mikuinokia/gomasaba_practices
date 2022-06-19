@@ -5,7 +5,4 @@
     </rule>
 
     <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
-
-<!--    <arg name="colors"/>-->
-<!--    <arg value="ps"/>-->
 </ruleset>
