@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - with:
-          php-version: '7.4'
+          php-version: '8.0'
       - name: Prepare
         run: |
           wget https://cs.symfony.com/download/php-cs-fixer-v2.phar -O php-cs-fixer
